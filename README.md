@@ -20,7 +20,7 @@ Format: Initialism(English/Chinese Full name), latest version (status)(available
 
 * MR(More Recipes 更多合成表) v1.0.0 (Idle 閒置)(尚未測試)
   * 原檔(Binary file)：https://github.com/Euxcbsks/Minecraft-addon_More-Recipes
-  * 1.14版載點(Download)：https://github.com/Euxcbsks/Addon-made-by-Euxcbsks/blob/master/More%20Recipes/More%20recipes_v1.0.0_1.14_stable.mcaddon
+  * 1.14版載點(Download)：https://github.com/Euxcbsks/Euxcbsks/blob/master/More%20Recipes/More%20recipes_v1.0.0_1.14_stable.mcaddon
   * 1.16版待開發
 
 * MRH(More Recipes Hard 更多合成表(困難版)) v1.0.0 (waiting for develop 待開發項目)
@@ -31,13 +31,13 @@ Format: Initialism(English/Chinese Full name), latest version (status)(available
 
 * SD(Sundries 雜物) v1.0.0 (idle 閒置)
   * 原檔(Binary file)：https://github.com/Euxcbsks/Minecraft-addon_Sundries
-  * 1.14版載點(Download)：https://github.com/Euxcbsks/Addon-made-by-Euxcbsks/blob/master/Sundries/Sundries_v1.0.0_1.14_stable.mcaddon
+  * 1.14版載點(Download)：https://github.com/Euxcbsks/Euxcbsks/blob/master/Sundries/Sundries_v1.0.0_1.14_stable.mcaddon
 
 ### Minecraft resources pack 資源包
 
 * DFF (顯示文字修正 Display Font Fix) v1.0.0 (idle 閒置)
   * 開發計劃連結：https://github.com/Euxcbsks/Minecraft-texture-pack_Display-Font-Fix
-  * 1.14最新版本連結：https://github.com/Euxcbsks/Addon-made-by-Euxcbsks/blob/master/Display%20Font%20Fix/Display%20Font%20Fix_v1.0.0_1.14_stable.mcpack
+  * 1.14最新版本連結：https://github.com/Euxcbsks/Euxcbsks/blob/master/Display%20Font%20Fix/Display%20Font%20Fix_v1.0.0_1.14_stable.mcpack
 
 ## How to contact me 如何聯繫我
 * Discord(First 首選，我最常在這出沒)
