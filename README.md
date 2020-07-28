@@ -39,6 +39,16 @@ Format: Initialism(English/Chinese Full name), latest version (status)(available
   * 開發計劃連結：https://github.com/Euxcbsks/Minecraft-texture-pack_Display-Font-Fix
   * 1.14最新版本連結：https://github.com/Euxcbsks/Euxcbsks/blob/master/Display%20Font%20Fix/Display%20Font%20Fix_v1.0.0_1.14_stable.mcpack
 
+### My Colony相關
+
+* My Colony wiki相關：
+  * My Colony wiki連結：
+  * 存放Wiki上Template與Module的儲存庫：
+* 一代的中文翻譯儲存庫：
+  * https://github.com/Euxcbsks/My-Colony_Translation
+* 二代的中文翻譯儲存庫：
+  * https://github.com/Euxcbsks/My-Colony-2_Translation
+
 ## How to contact me 如何聯繫我
 * Discord(First 首選，我最常在這出沒)
   * Discord ID:Euxcbsks#5316
@@ -49,6 +59,5 @@ Format: Initialism(English/Chinese Full name), latest version (status)(available
 * Twitter(not suggested 不建議，本人不常開Twitter且通知有點問題)
   * Twitter ID:euxcbsks
   * 個人頁連結(profile)：https://mobile.twitter.com/euxcbsks
-
 ## My Youtube channel 我的YouTube頻道
 https://www.youtube.com/channel/UC66x9xXfHo_3l_CziRV_8cg
