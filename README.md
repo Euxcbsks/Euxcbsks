@@ -19,21 +19,21 @@ Format: Initialism(English/Chinese Full name), latest version (status)(available
 
 ### Minecraft Addon
 * MR(More Recipes 更多合成表) v1.0.0 (Idle 閒置)(尚未測試)
-  * 原檔(Binary file)：https://github.com/Euxcbsks/Minecraft-addon_More-Recipes
+  * 原檔(Binary file)：https://github.com/lux-ray/More-Recipes
   * 1.14版載點(Download)：https://github.com/Euxcbsks/Euxcbsks/blob/master/More%20Recipes/More%20recipes_v1.0.0_1.14_stable.mcaddon
   * 1.16版待開發
-* MRH(More Recipes Hard 更多合成表(困難版)) v1.0.0 (waiting for develop 待開發項目)
-  * 原檔(Binary file)：https://github.com/Euxcbsks/Minecraft-addon_More-Recipes-Hard/tree/master
+* HR(Hardcore Recipes 硬核合成表) v1.0.0 (waiting for develop 待開發項目)
+  * 原檔(Binary file)：https://github.com/lux-ray/Hardcore-Recipes
 * MS(More Storage 更多儲存空間) v1.0.0 (Main development 主要開發項目)
-  * 原檔(Binary file)：https://github.com/Euxcbsks/Minecraft-addon_More-Storage
+  * 原檔(Binary file)：https://github.com/lux-ray/More-Storage
 * SD(Sundries 雜物) v1.0.0 (idle 閒置)
-  * 原檔(Binary file)：https://github.com/Euxcbsks/Minecraft-addon_Sundries
+  * 原檔(Binary file)：https://github.com/lux-ray/Sundries
   * 1.14版載點(Download)：https://github.com/Euxcbsks/Euxcbsks/blob/master/Sundries/Sundries_v1.0.0_1.14_stable.mcaddon
 
 ### Minecraft resources pack 資源包
 * DFF (顯示文字修正 Display Font Fix) v1.0.0 (idle 閒置)
-  * 開發計劃連結：https://github.com/Euxcbsks/Minecraft-texture-pack_Display-Font-Fix
-  * 1.14最新版本連結：https://github.com/Euxcbsks/Euxcbsks/blob/master/Display%20Font%20Fix/Display%20Font%20Fix_v1.0.0_1.14_stable.mcpack
+  * 開發計劃連結：https://github.com/lux-ray/Display-Font-Fix
+  * 1.14版載點(Download)：https://github.com/Euxcbsks/Euxcbsks/blob/master/Display%20Font%20Fix/Display%20Font%20Fix_v1.0.0_1.14_stable.mcpack
 
 ### My Colony相關
 * My Colony wiki相關：
