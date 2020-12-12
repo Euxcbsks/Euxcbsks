@@ -14,3 +14,5 @@ Python學習中，正在開發遊戲資料處理工具, Discord bot和各式小�
   * https://github.com/Euxcbsks/My-Colony-2_Translation
 
 * Discord ID:Euxcbsks#5316
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euxcbsks&hide=javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
