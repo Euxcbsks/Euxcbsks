@@ -7,7 +7,7 @@ Python學習中，最近主要在製作Discord bot和各式小工具
 * Discord: Euxcbsks#5316
 * Twitter: Euxcbsks
 ## 主要使用語言
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euxcbsks&hide=javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euxcbsks&exclude_repo=My-Colony-Wiki_template-and-module,My-Colony_Translation,My-Colony-2_Translation&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # 一些小東西
 ## Minecraft
