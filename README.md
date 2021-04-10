@@ -8,7 +8,6 @@ Python學習中...
 
 ## 社群
 * Discord: Euxcbsks#5316
-* Twitter: euxcbsks
 
 ## 主要使用語言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euxcbsks&exclude_repo=My-Colony-Wiki_template-and-module,My-Colony_Translation,My-Colony-2_Translation&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
