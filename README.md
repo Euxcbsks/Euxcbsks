@@ -1,8 +1,7 @@
 owo)/Hi, here is Eux, you can call me Lux too
 
 # info
-18歲的高中生，上班/上課以外的閒暇時間大多在滑Youtube或/和coding
-
+19歲的一般人
 Discord: Euxcbsks#5316
 
 ## chart
