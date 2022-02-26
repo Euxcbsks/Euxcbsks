@@ -1,7 +1,8 @@
-owo)/Hi, here is Eux, you can call me Lux too
+owo)/Hi, here is Eux, you can call me Lux or Ray too
 
 # info
-19歲的一般人
+19歲的一般人, 19yo normal person
+
 Discord: Euxcbsks#5316
 
 ## chart
