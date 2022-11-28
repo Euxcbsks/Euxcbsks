@@ -1,7 +1,9 @@
 owo)/Hi, here is Ray, you can call me Lux or Eux too
 
 # Info
-19歲的一般人, 19yo normal person
+只是個一般人
+因為興趣而自學了Python
+因為自身沒有需求所以不會其他programming language
 
 Discord: Euxcbsks#5316
 
