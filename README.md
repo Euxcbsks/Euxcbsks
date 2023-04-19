@@ -1,4 +1,4 @@
-Ray, or Lux, Eux
+Call: Ray or Eux
 
-# Info
-興趣而自學Python的平凡人，因為沒有需求所以沒打算學習其他語言
+## Info
+因興趣而自學Python的平凡人，也只學習自己有興趣的領域
