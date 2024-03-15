@@ -3,10 +3,10 @@
 People who learn Python for fun, only study areas of interest
 
 - Programming Language:
-  - Python: 2019 - now
+  - Python: from 2019
+  - Dart: from 2023
   - Other: can only read
-  - In plan:
-    - Dart: for flutter
+  - In plan
     - Rust: for improving skills
 
 # Other Info
