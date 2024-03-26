@@ -1,6 +1,6 @@
 因興趣而自學的平凡人，也只學習自己有興趣的領域
 
-People who learn for fun, only study areas of interest
+Person who learn for fun, only study areas of interest
 
 - Programming Language:
   - Python: from 2019
