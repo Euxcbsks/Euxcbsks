@@ -5,6 +5,7 @@ Person who learn for fun, only study areas of interest
 - Programming Language:
   - Python: from 2019
   - Dart: from 2023
+  - Kotlin: from 2024
   - Other: can only read
   - In plan
     - Rust: for improving skills
