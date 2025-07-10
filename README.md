@@ -1,13 +1,6 @@
-因興趣而自學的平凡人，也只學習自己有興趣的領域
+因興趣而自學，只學有興趣的
 
-Person who learn for fun and only learn what I am interested in.
-
-- Programming Language:
-  - Python: since 2019
-  - Dart: since 2023
-  - Kotlin: since 2024
-  - C#: since 2025
-  - Other: can only read
+Learn for interest and only learn interested.
 
 # Other Info
 - Call: Ray or Eux
